@@ -3,6 +3,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/white"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".core.authentication.SupplierLoginFragment">
@@ -111,7 +112,7 @@
         android:layout_marginTop="16dp"
         android:src="@drawable/ic_hidden"
         app:layout_constraintEnd_toEndOf="@+id/supplier_login_layout_edit_text_password"
-        app:layout_constraintHorizontal_bias="0.96"
+        app:layout_constraintHorizontal_bias="0.901"
         app:layout_constraintStart_toStartOf="@+id/supplier_login_layout_edit_text_password"
         app:layout_constraintTop_toTopOf="@+id/supplier_login_layout_edit_text_password" />
 

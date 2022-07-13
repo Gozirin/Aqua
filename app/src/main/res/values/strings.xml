@@ -74,4 +74,30 @@
     <string name="year_usageText">TOTAL USAGE THIS YEAR</string>
     <string name="year_usagePercent">29.76%</string>
     <string name="hi_supplier">Hi, Supplier</string>
+    <string name="enter_the_email_associated_with_your_account_and_we_ll_send_an_email_with_instruction_to_reset_your_password">Enter the email associated with your account and we \'ll send an email with instruction to reset your password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="create_new_password">Create New Password</string>
+    <string name="check_mail">Check Mail</string>
+    <string name="we_have_sent_a_password_recover_instruction_to_your_account">we have sent a password recover instruction to your account</string>
+    <string name="did_not_receive_the_email_check_your_spam_filter_or">Did not receive the email? check your spam filter, or</string>
+    <string name="try_another_email">try another email</string>
+    <string name="allows_you_receive_notification_on_nphone_screen">Allows you receive notification on \nphone screen</string>
+    <string name="email_notification">Email notification</string>
+    <string name="allows_you_receive_the_eemail_notification_nfrom_the_app">Allows you receive the Eemail notification \nfrom the app</string>
+    <string name="refer_your_friends_earn_ncash_back"><![CDATA[Refer your friends & earn \ncash back]]></string>
+    <string name="invite_your_friends_to_join_aqua_and_get_n500_ncash_back_for_each_friend_that_joins_using_nyour_referral_code">Invite your friends to join Aqua and get N500 \ncash back for each friend that joins using \nyour referral code</string>
+    <string name="invite_more_friends">Invite more friends</string>
+    <string name="transaction_history">Transaction History</string>
+    <string name="arizona_inc">Arizona Inc</string>
+    <string name="_6_packs_of_big_bottle_water">6 packs of big bottle water</string>
+    <string name="water_plc">Water Plc</string>
+    <string name="_3_packs_of_big_bottle_water">3 packs of big bottle water</string>
+    <string name="n7_600_00">+N7,600.00</string>
+    <string name="_23_3_2022">23/3/2022</string>
+    <string name="mag_aqua">Mag Aqua</string>
+    <string name="n2_600_00">+N2,600.00</string>
+    <string name="aquafina">Aquafina</string>
+    <string name="n1_600_00">+N1,600.00</string>
+    <string name="confirm_password">Confirm password</string>
+
 </resources>
